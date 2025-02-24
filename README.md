@@ -1,2 +1,3 @@
 # aman-gupta
-this is my first git respository
+This is my first Git Respository
+Author - Aman gupta
